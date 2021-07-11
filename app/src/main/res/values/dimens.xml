@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="ziro">0dp</dimen>
-    <dimen name="weightsizeItem">30dp</dimen>
+    <dimen name="weightsizeItem">15dp</dimen>
     <dimen name="heightSizeItem">30dp</dimen>
     <dimen name="textSizeItem">40sp</dimen>
+    <dimen name="span">5dp</dimen>
+    <dimen name="radius">30dp</dimen>
+    <dimen name="heigthImage">150dp</dimen>
+    <dimen name="marginTextView">20dp</dimen>
 </resources>

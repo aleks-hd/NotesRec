@@ -3,22 +3,24 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:orientation="vertical"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-<include layout="@layout/toolbarlayout"/>
+    <include layout="@layout/toolbarlayout" />
 
     <LinearLayout
         android:id="@+id/recContainer"
         android:layout_width="match_parent"
-        android:orientation="vertical"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
         <fragment
             android:id="@+id/fragmentContainer"
+            android:name="com.hfad.notesrec.OneFragment"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:name="com.hfad.notesrec.OneFragment"/>
+            android:layout_height="wrap_content" />
     </LinearLayout>
+
 
 </LinearLayout>

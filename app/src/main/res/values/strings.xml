@@ -16,20 +16,25 @@
         <item>Заметка 12</item>
         <item>Заметка 13</item>
         <item>Заметка 14</item>
-        <item>Заметка 15</item>
-        <item>Заметка 16</item>
-        <item>Заметка 17</item>
-        <item>Заметка 18</item>
-        <item>Заметка 19</item>
-        <item>Заметка 20</item>
-        <item>Заметка 21</item>
-        <item>Заметка 22</item>
-        <item>Заметка 23</item>
-        <item>Заметка 24</item>
-
-
     </string-array>
-    <!-- TODO: Remove or change this placeholder text -->
+
+    <array name="arrayImages">
+        <item>@drawable/space1</item>
+        <item>@drawable/space2</item>
+        <item>@drawable/space3</item>
+        <item>@drawable/space4</item>
+        <item>@drawable/space5</item>
+        <item>@drawable/space6</item>
+        <item>@drawable/space7</item>
+        <item>@drawable/space8</item>
+        <item>@drawable/space9</item>
+        <item>@drawable/space10</item>
+        <item>@drawable/space11</item>
+        <item>@drawable/space12</item>
+        <item>@drawable/space13</item>
+        <item>@drawable/space14</item>
+    </array>
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
