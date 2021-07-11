@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NotesRec</string>
+
+    <string-array name="nameArray">
+        <item>Заметка 1</item>
+        <item>Заметка 2</item>
+        <item>Заметка 3</item>
+        <item>Заметка 4</item>
+        <item>Заметка 5</item>
+        <item>Заметка 6</item>
+        <item>Заметка 7</item>
+        <item>Заметка 8</item>
+        <item>Заметка 9</item>
+        <item>Заметка 10</item>
+        <item>Заметка 11</item>
+        <item>Заметка 12</item>
+        <item>Заметка 13</item>
+        <item>Заметка 14</item>
+        <item>Заметка 15</item>
+        <item>Заметка 16</item>
+        <item>Заметка 17</item>
+        <item>Заметка 18</item>
+        <item>Заметка 19</item>
+        <item>Заметка 20</item>
+        <item>Заметка 21</item>
+        <item>Заметка 22</item>
+        <item>Заметка 23</item>
+        <item>Заметка 24</item>
+
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
